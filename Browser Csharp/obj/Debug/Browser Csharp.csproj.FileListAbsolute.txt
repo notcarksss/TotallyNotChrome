@@ -1,0 +1,9 @@
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\bin\Debug\Browser Csharp.exe.config
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\bin\Debug\Browser Csharp.exe
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\bin\Debug\Browser Csharp.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser Csharp.csprojResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser_Csharp.Form1.resources
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser_Csharp.Properties.Resources.resources
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser Csharp.csproj.GenerateResource.Cache
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser Csharp.exe
+c:\users\aaron\documents\visual studio 2015\Projects\Browser Csharp\obj\Debug\Browser Csharp.pdb
